@@ -1,2 +1,2 @@
-Repositorio sobre ejercicios resueltos de Shell Script
--- Catedra de Sistemas Operativos FRLP --
+Repositorio de Ejercicios resueltos sobre Shell Script
+Catedra de Sistemas Operativos FRLP
